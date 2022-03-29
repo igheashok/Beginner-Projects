@@ -3,7 +3,7 @@
 # User Input #
 user_name = input("Enter you name: ").upper()
 
-# Greetings #
+# Greetings and instructions #
 print(f""""WELCOME TO THE QUIZ GAME, {user_name}!"\n
 Instructions:
 * Enter the correct answer from the options e.g: A, B, C, D
